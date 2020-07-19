@@ -1,0 +1,44 @@
+.inline {
+    display: inline-block;
+    margin: 10px 0;
+}
+
+.nav-line {
+    clear: both;
+    width: 450px;
+    border: 1px solid #efefef;
+    position: relative;
+    top: 58px;
+    margin: 0 auto;
+}
+
+.theader {
+    width: 120px;
+    color: #282828;
+    padding-left: 20px;
+}
+
+.btn {
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    text-decoration: none;
+    line-height: 40px;
+    cursor: pointer;
+    margin: 0 auto;
+    background-color: #898989;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #282828;
+}
+
+.outer {
+    width: 100%;
+    text-align: center;
+}
+
+.inner {
+    display: inline-block;
+}
