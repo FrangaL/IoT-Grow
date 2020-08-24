@@ -31,7 +31,7 @@
                                         <td><div id="sync_time"></div></td>
                                 </tr>
                         </table> -->
-                        <div class="btn" onclick="time_sync()">SYNC</div>
+                        <button type="button" id="sync" class="btn btn-outline-secondary sync mr-1">Sincronizar</button>
                 </form>
 </div>
 </div>
