@@ -17,7 +17,6 @@ Route::get('/', 'PagesController@index');
 Route::get('reloj', 'PagesController@reloj');
 Route::get('iluminacion', 'PagesController@iluminacion');
 Route::get('temperatura', 'PagesController@temperatura');
-Route::get('portafolio', 'PagesController@portafolio');
 
 Route::get('ajaxRequestBtn/{id}', 'HomeController@ajaxRequestBtn');
 Route::post('ajaxRequestBtn/{id}', 'HomeController@ajaxRequestPostBtn');
