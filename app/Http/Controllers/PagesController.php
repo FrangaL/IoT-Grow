@@ -29,8 +29,8 @@ class PagesController extends Controller
 		public function reloj()
 		{
 				$data = array();
-				$data['title'] = "Programación iluminación";
-				$data['titlePage'] = "Programación iluminación";
+				$data['title'] = "Sincronizar reloj";
+				$data['titlePage'] = "Sincronizar reloj";
 				return view('pages.clock')->with($data);
 		}
 		public function portafolio()
