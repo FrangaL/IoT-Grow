@@ -34,6 +34,7 @@ let tailwindcss = require('tailwindcss');
          'resources/css/main.css',
          'resources/css/custom.css'],
          'public/css/all.css'),
+     
  mix.styles([
          'resources/css/timepicki.css'],
          'public/css/timepicki.css'),
