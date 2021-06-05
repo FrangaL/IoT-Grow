@@ -24,7 +24,7 @@
         "sass-loader": "^8.0.2",
 	      "tailwindcss": "^1.4.6",
         "toastr": "^2.1.4",
-	      "postcss": "^7.0.28",
+	      "postcss": "^8.2.10",
         "vue-template-compiler": "^2.6.11"
     },
     "dependencies": {
