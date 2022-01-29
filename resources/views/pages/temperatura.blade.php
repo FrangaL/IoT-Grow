@@ -46,13 +46,13 @@
 	<div id="carouselTemp" class="carousel slide" data-ride="carousel">
 	  <div class="carousel-inner">
 	    <div class="carousel-item active">
-	      <img class="d-block w-75" src="images/temp-sensor/sensors_1h.png" alt="1 Hora">
+	      <img class="d-block w-75" src="images/temp-sensor/sensors_2h.png" alt="2 Horas">
 	    </div>
 	    <div class="carousel-item">
-	      <img class="d-block w-75" src="images/temp-sensor/sensors_2h.png" alt="Second slide">
+	      <img class="d-block w-75" src="images/temp-sensor/sensors_6h.png" alt="6 Horas">
 	    </div>
 	    <div class="carousel-item">
-	      <img class="d-block w-75" src="images/temp-sensor/sensors_6h.png" alt="Third slide">
+	      <img class="d-block w-75" src="images/temp-sensor/sensors_12h.png" alt="12 Horas">
 	    </div>
 	  </div>
 	  <a class="carousel-control-prev" href="#carouselTemp" role="button" data-slide="prev">
